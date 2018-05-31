@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527731352 source:c:\users\hp-\desktop\inern\c++ coding\pi_formulas\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
