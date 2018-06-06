@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528248613 source:c:\users\hp-\desktop\inern\c++ coding\monty_hall\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
